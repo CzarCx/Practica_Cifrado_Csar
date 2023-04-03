@@ -1,0 +1,7 @@
+
+
+ID: 20
+Nombre del Producto: Carnitas
+Pvp: 20
+
+
